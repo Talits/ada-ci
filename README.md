@@ -1,15 +1,15 @@
 # Projeto final - CI/CD
 
-> *Curso*: DevOps
-> *Módulo*: Pipelines de CI e CD
-> *Professora*: Talita
+> - *Curso*: DevOps
+> - *Módulo*: Pipelines de CI e CD
+> - *Professora*: Talita
 
 ## Enunciado
 
-* Construir uma imagem Docker dentro de um processo de CI/CD, utilizando Jenkins em 2 branches (development e main). 
-* Realizar o versionamento do código e das imagens Docker, utilizando GitHub como repositório.
-* Usar o Dockerfile no repositório: https://github.com/Talits/ada-ci 
-* Exemplo Jenkinsfile: https://github.com/Talits/Jenkinsfile-projetoFinal/blob/main/Jenkinsfile
+- Construir uma imagem Docker dentro de um processo de CI/CD, utilizando Jenkins em 2 branches (development e main). 
+- Realizar o versionamento do código e das imagens Docker, utilizando GitHub como repositório.
+- Usar o Dockerfile no repositório: https://github.com/Talits/ada-ci 
+- Exemplo Jenkinsfile: https://github.com/Talits/Jenkinsfile-projetoFinal/blob/main/Jenkinsfile
 
 ## Passos para execução
 
